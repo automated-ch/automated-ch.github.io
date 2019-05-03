@@ -1,6 +1,6 @@
 # Welcome to the automated.ch git pages
 
 
-Hete are some of the projects:
+Here are some of the projects:
 
 [temporal expresseion for recurring event evaluation](https://github.com/automated-ch/temporal-expression)
